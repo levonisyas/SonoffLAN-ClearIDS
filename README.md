@@ -53,7 +53,7 @@ This fork generates entity IDs that include the user-defined device name from th
 
 ```
 
-[https://github.com/levonisyas/SonoffLAN-friendly-entity-ids](https://github.com/levonisyas/SonoffLAN-friendly-entity-ids)
+https://github.com/levonisyas/SonoffLAN-friendly-entity-ids
 
 ```
 
@@ -70,9 +70,6 @@ This fork generates entity IDs that include the user-defined device name from th
 
 - Original Integration:  
 https://github.com/AlexxIT/SonoffLAN
-
-- Related Pull Request:  
-https://github.com/AlexxIT/SonoffLAN/pull/1693
 
 ---
 
