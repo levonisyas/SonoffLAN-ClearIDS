@@ -39,11 +39,11 @@ This fork generates entity IDs that include the user-defined device name from th
 ## 📋 Examples
 
 | Original Entity ID | New Entity ID |
-|-------------------|--------------|
+|--------------------|------------------------------|
 | `switch.sonoff_1000xxxx_1` | `switch.sonoff_your_device_name_1000xxxx_1` |
 | `sensor.sonoff_1000xxxx_power` | `sensor.sonoff_your_device_name_1000xxxx_power` |
 | `light.sonoff_1000xxxx` | `light.sonoff_your_device_name_1000xxxx` |
-| `cover.sonoff_1000xxxx` | `cover._your_device_name_1000xxxx` |
+| `cover.sonoff_1000xxxx` | `cover.sonoff_your_device_name_1000xxxx` |
 
 ---
 

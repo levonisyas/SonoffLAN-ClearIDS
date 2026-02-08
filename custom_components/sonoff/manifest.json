@@ -1,6 +1,6 @@
 {
   "domain": "sonoff",
-  "name": "Sonoff LAN Friendly Entity IDs",
+  "name": "Sonoff LAN Clear Entity IDs",
   "codeowners": [
     "@AlexxIT"
   ],
@@ -9,9 +9,9 @@
     "http",
     "zeroconf"
   ],
-  "documentation": "https://github.com/levonisyas/SonoffLAN-friendly-entity-ids",
+  "documentation": "https://github.com/levonisyas/SonoffLAN-ClearIDS",
   "iot_class": "local_push",
-  "issue_tracker": "https://github.com/levonisyas/SonoffLAN-friendly-entity-ids/issues",
+  "issue_tracker": "https://github.com/levonisyas/SonoffLAN-ClearIDS/issues",
   "requirements": [
     "pycryptodome>=3.6.6"
   ],

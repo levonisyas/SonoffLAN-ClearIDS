@@ -1,5 +1,5 @@
 {
-  "title": "Sonoff LAN Friendly Entity IDs",
+  "title": "Sonoff LAN Clear Entity IDs",
   "config": {
     "abort": {
       "reauth_successful": "Re-authentication was successful"
